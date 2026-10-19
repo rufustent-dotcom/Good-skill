@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Capital Explorer",
+  "description": "AI-powered strategist for discovering and analyzing monetization strategies across industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
